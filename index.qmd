@@ -1,0 +1,5 @@
+---
+title: "história"
+---
+
+Grupo de Estudos em Filosofia do Movimento. Os *Estudos do Movimento* começaram com a leitura da obra de Thomas Nail: uma [Filosofia do Movimento](/filosofia.qmd).

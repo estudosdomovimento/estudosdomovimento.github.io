@@ -1,0 +1,41 @@
+---
+title: "filosofia"
+---
+
+## Filosofia do Movimento {#sec-filosofia}
+
+A Filosofia do Movimento de Thomas Nail é composta por uma:
+
+-   **Teoria da Movimentação**; em diálogo com
+
+-   **Teóricos da Movimentação**; e
+
+-   **Intervenções**.
+
+### I. Teoria da Movimentação
+
+| Obra                        | Cinética     |
+|-----------------------------|--------------|
+| *The Figure of the Migrant* | Kinopolítica |
+| *Theory of the Border*      | Kinopolítica |
+| *Being and Motion*          | Kinologia    |
+| *Theory of the Image*       | Kinestética  |
+| *Theory of the Object*      | Kinemetria   |
+| *Theory of the Earth*       | Geocinética  |
+
+### II. Teóricos da Movimentação
+
+| Obra                                        | Cinética              |
+|---------------------------------------------|-----------------------|
+| *Lucretius I: An Ontology of Motion*        | Materialismo Cinético |
+| *Lucretius II: An Ethics of Motion*         | Ética Cinética        |
+| *Lucretius III: A History of Motion*        | História Cinética     |
+| *Marx in Motion: A New Materialist Marxism* | Comunismo Cinético    |
+| *Woolf: Moments of Becoming*                | Kinocriticismo        |
+
+### III. Intervenções
+
+| Obra                             |     |
+|----------------------------------|-----|
+| *Matter and Motion*              |     |
+| *Flux: A History of the Present* |     |

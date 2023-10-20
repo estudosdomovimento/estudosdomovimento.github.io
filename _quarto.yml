@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "estudos do movimento"
+  navbar:
+    left:
+        - href: index.qmd
+        - filosofia.qmd
+        - estudos.qmd
+        - contato.qmd
+    tools:
+        - icon: twitter
+          href: https://twitter.com/estudosdomov
+        - icon: instagram
+          href: https://www.instagram.com/estudosdomovimento
+        - icon: facebook
+          href: https://www.facebook.com/estudosdomovimento
+        - icon: youtube
+          href: https://www.youtube.com/channel/UCEqWu7s9I32WXYB3zqHuEeA
+        - icon: github
+          href: https://github.com/saulodbarboza/emo
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
